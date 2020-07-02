@@ -1,8 +1,8 @@
 name: ct_test_helpers
 description: Test helpers frequently used by the cookytech team
 version: 0.0.1
-author:
-homepage:
+author: Raveesh Agarwal<raveeshr503@gmail.com>
+homepage: https://cookytech.in
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
