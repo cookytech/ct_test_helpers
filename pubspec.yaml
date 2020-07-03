@@ -1,7 +1,8 @@
 name: ct_test_helpers
 description: At cookytech, we like to have some syntactic sugar to make our test setup more concise. This package contains extension functions for things that we do frequently.
-version: 0.0.2
-author: Raveesh Agarwal<raveeshr503@gmail.com>
+version: 0.0.3
+#author: Raveesh Agarwal<raveeshr503@gmail.com>
+repository: https://github.com/cookytech/ct_test_helpers
 homepage: https://cookytech.in
 
 environment:
