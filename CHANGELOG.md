@@ -1,3 +1,8 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.2] - 03.07.2020
 
-* TODO: Describe initial release.
+* Early prototyping
+* Adds `TestExtensionOnWidget`
+    * Adds `wrapWithMaterialApp`
+* Adds `TestExtensionOnWidgetTester`
+    * Adds `setDeviceSize`
+* Comprehensive unit testing
