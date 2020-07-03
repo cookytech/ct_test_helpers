@@ -1,6 +1,6 @@
 name: ct_test_helpers
-description: Test helpers frequently used by the cookytech team
-version: 0.0.1
+description: At cookytech, we like to have some syntactic sugar to make our test setup more concise. This package contains extension functions for things that we do frequently.
+version: 0.0.2
 author: Raveesh Agarwal<raveeshr503@gmail.com>
 homepage: https://cookytech.in
 
